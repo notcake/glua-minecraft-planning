@@ -38,15 +38,17 @@ _To be determined_
 * Use common sense and be nice to others
 
 #### Alternative Version
-* Don't be annoying
-* Don't be an asshole
-* Try to be nice
-* Don't grief
-* Don't steal
-* Don't cheat
-* Don't raid unless all members of both sides have agreed to PvP
-* Don't destroy other people's buildings or property without permission
-* Do not rules-lawyer
+* Don't be annoying.
+* Don't be an asshole.
+* Try to be nice.
+* Don't grief.
+* Don't steal.
+* Don't cheat.
+* Don't raid unless all members of both sides have agreed to PvP.
+* Don't destroy other people's buildings or property without permission.
+* Do not rules-lawyer or engage in backseat moderation.
+
+These rules are not exhaustive and will be applied at the discretion of the administrators.
 
 ### Whitelist
 **Read the rules before entering yourself in the table below.**
