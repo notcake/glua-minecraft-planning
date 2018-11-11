@@ -1,12 +1,13 @@
 # Anarchocapitalism Simulator 2018
-Also see [part 2](https://hackmd.io/SqTTvNVQQ-GZN4KOjL6GWQ)
+Also see [part 2](https://hackmd.io/SqTTvNVQQ-GZN4KOjL6GWQ) for more mods.
 
 ## Instructions
 
 * Add your name to the whitelist table if you want to join
 
-* Find fun / original / wacky mods to play
-  Please insert curseforge links into the tables.
+* Find fun / original / wacky mods to play.
+  Please insert curseforge links into the tables
+  and let the chat know which mods you've added.
   **Mods without links will not be installed!**
   **Mods not in the tables will not be installed!**
 
@@ -40,8 +41,10 @@ _To be determined_
 * Don't be annoying
 * Don't be an asshole
 * Try to be nice
+* Don't grief
 * Don't steal
 * Don't cheat
+* Don't raid unless all members of both sides have agreed to PvP
 * Don't destroy other people's buildings or property without permission
 * Do not rules-lawyer
 
