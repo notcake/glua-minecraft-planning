@@ -51,12 +51,14 @@ _To be determined_
 | Name            | Discord Name   |   |
 | --------------- | -------------- | - |
 | \_cake          | notcake        | ✔ |
+| alexrsagen      | alex           | ✔ |
 | AwfulRanger     | maven          | ✔ |
 | AxelSyverson    | axe            | ✔ |
 | bullet_striker  | mehni          | ✔ |
 | CreeepyFace     | Trixter        | ✔ |
 | danielga        | MetaMan        | ✔ |
 | ds84182         | ds84182        | ✔ |
+| Engine_Machiner | Engine         | ✔ |
 | GGGKILLER       | GGG Killer     | ✔ |
 | ItsEris         | pip            | ✔ |
 | javascript_king | cogg           | ✔ |
@@ -66,7 +68,6 @@ _To be determined_
 | paully105       | code_gs        | ✔ |
 | swadical        | SwadicalRag    | ✔ |
 | xChratis        | Chratis        | ✔ |
-| alexrsagen      | alex           | ✔ |
 | _Name_          | _Discord Name_ |   |
 
 ## Server Hosting
