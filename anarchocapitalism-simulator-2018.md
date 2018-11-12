@@ -53,27 +53,31 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 ### Whitelist
 **Read the rules before entering yourself in the table below.**
 
-| Name            | Discord Name   |   |
-| --------------- | -------------- | - |
-| \_cake          | notcake        | ✔ |
-| alexrsagen      | alex           | ✔ |
-| AwfulRanger     | maven          | ✔ |
-| AxelSyverson    | axe            | ✔ |
-| bullet_striker  | mehni          | ✔ |
-| CreeepyFace     | Trixter        | ✔ |
-| danielga        | MetaMan        | ✔ |
-| ds84182         | ds84182        | ✔ |
-| Engine_Machiner | Engine         | ✔ |
-| GGGKILLER       | GGG Killer     | ✔ |
-| ItsEris         | pip            | ✔ |
-| javascript_king | cogg           | ✔ |
-| Lixquid         | Lixquid        | ✔ |
-| MeepDarnessMeep | meepen         | ✔ |
-| Miyjuoon        | Miyjuoon       | ✔ |
-| paully105       | code_gs        | ✔ |
-| swadical        | SwadicalRag    | ✔ |
-| xChratis        | Chratis        | ✔ |
-| _Name_          | _Discord Name_ |   |
+| Name             | Discord Name   |   |
+| ---------------- | -------------- | - |
+| \_cake           | notcake        | ✔ |
+| alexrsagen       | alex           | ✔ |
+| AwfulRanger      | maven          | ✔ |
+| AxelSyverson     | axe            | ✔ |
+| bullet_striker   | mehni          | ✔ |
+| CommanderNZ      | The Commander  | ✔ |
+| CreeepyFace      | Trixter        | ✔ |
+| danielga         | MetaMan        | ✔ |
+| ds84182          | ds84182        | ✔ |
+| Engine_Machiner  | Engine         | ✔ |
+| GGGKILLER        | GGG Killer     | ✔ |
+| ItsEris          | pip            | ✔ |
+| javascript_king  | cogg           | ✔ |
+| Lixquid          | Lixquid        | ✔ |
+| mcd1992          | mcd1992        | ✔ |
+| MeepDarknessMeep | meepen         | ✔ |
+| Miyjuoon         | Miyjuoon       | ✔ |
+| moatato          | motato         | ✔ |
+| notbadger        | Badger         | ✔ |
+| paully105        | code_gs        | ✔ |
+| swadical         | SwadicalRag    | ✔ |
+| xChratis         | Chratis        | ✔ |
+| _Name_           | _Discord Name_ |   |
 
 ## Server Hosting
 
@@ -189,6 +193,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | + Chameleon                   |   | -                                                                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/chameleon/files/2419174)                                                                       | [1.11](https://minecraft.curseforge.com/projects/chameleon/files/2419176)                                                                       | [1.12](https://minecraft.curseforge.com/projects/chameleon/files/2450900)                                                                       |
 | Thaumcraft                    | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/thaumcraft/files/2227552)                                                                   | [1.10.2](https://minecraft.curseforge.com/projects/thaumcraft/files/2546413)                                                                      | -                                                                                                                                               | [1.12](https://minecraft.curseforge.com/projects/thaumcraft/files/2629023)                                                                      |
 | + Baubles                     | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/baubles/files/2224857)                                                                      | [1.10.2](https://minecraft.curseforge.com/projects/baubles/files/2518666)                                                                         | [1.11](https://minecraft.curseforge.com/projects/baubles/files/2458753)                                                                         | [1.12](https://minecraft.curseforge.com/projects/baubles/files/2518667)                                                                         |
+| The Aether II                 |   | [1.7.10](https://minecraft.curseforge.com/projects/the-aether-ii/files/2273367)                                                                | -                                                                                                                                                 | -                                                                                                                                               | [1.12](https://minecraft.curseforge.com/projects/the-aether-ii/files/2630226)                                                                   |
 | The Twilight Forest           |   | [1.7.10](https://minecraft.curseforge.com/projects/the-twilight-forest/files/2238492)                                                          | -                                                                                                                                                 | -                                                                                                                                               | [1.12](https://minecraft.curseforge.com/projects/the-twilight-forest/files/2618264)                                                             |
 | Thermal Expansion             | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/thermalexpansion/files/2388758)                                                             | [1.10.2](https://minecraft.curseforge.com/projects/thermalexpansion/files/2489698)                                                                | [1.11](https://minecraft.curseforge.com/projects/thermalexpansion/files/2489699)                                                                | [1.12](https://minecraft.curseforge.com/projects/thermalexpansion/files/2624855)                                                                |
 | Thermal Dynamics              | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/thermal-dynamics/files/2388756)                                                             | [1.10.2](https://minecraft.curseforge.com/projects/thermal-dynamics/files/2489724)                                                                | [1.11](https://minecraft.curseforge.com/projects/thermal-dynamics/files/2489725)                                                                | [1.12](https://minecraft.curseforge.com/projects/thermal-dynamics/files/2624182)                                                                |
@@ -297,6 +302,7 @@ Also see [part 1](https://hackmd.io/TVF3VpssTe2_X5AR86630g).
 | YABBA                    | ✔ | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/yabba/files/2417156)                        | [1.11](https://minecraft.curseforge.com/projects/yabba/files/2422885)                        | [1.12](https://minecraft.curseforge.com/projects/yabba/files/2624007)                        |
 | + FTBLib                 | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/ftblib/files/2291433)                       | [1.10.2](https://minecraft.curseforge.com/projects/ftblib/files/2422883)                       | [1.11](https://minecraft.curseforge.com/projects/ftblib/files/2422883)                       | [1.12](https://minecraft.curseforge.com/projects/ftblib/files/2634401)                       |
 | + + CompatLayer          | ✔ | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/compatlayer/files/2532012)                  | [1.11](https://minecraft.curseforge.com/projects/compatlayer/files/2532013)                  | -                                                                                            |
+| Joshua's Christmas Mod   |   | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/joshuas-christmas-mod/files/2513683)        | [1.11](https://minecraft.curseforge.com/projects/joshuas-christmas-mod/files/2513698)        | [1.12](https://minecraft.curseforge.com/projects/joshuas-christmas-mod/files/2513627)        |
 | LavaBoat                 | ✖ | [1.7.10](https://minecraft.curseforge.com/projects/lavaboat_mod/files/2201786)                 | -                                                                                              | -                                                                                            | -                                                                                            |
 | Mob Dismemberment        | ✖ | [1.7.10](https://minecraft.curseforge.com/projects/mob-dismemberment/files/2232121)            | [1.10.2](https://minecraft.curseforge.com/projects/mob-dismemberment/files/2348184)            | -                                                                                            | [1.12](https://minecraft.curseforge.com/projects/mob-dismemberment/files/2487081)            |
 | + iChunUtil              | ✖ | [1.7.10](https://minecraft.curseforge.com/projects/ichunutil/files/2338148)                    | [1.10.2](https://minecraft.curseforge.com/projects/ichunutil/files/2465605)                    | -                                                                                            | [1.12](https://minecraft.curseforge.com/projects/ichunutil/files/2510760)                    |
@@ -320,6 +326,7 @@ Also see [part 1](https://hackmd.io/TVF3VpssTe2_X5AR86630g).
 | + OMLib                  | ✖ | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/omlib/files/2549769)                        | [1.11](https://minecraft.curseforge.com/projects/omlib/files/2549768)                        | [1.12](https://minecraft.curseforge.com/projects/omlib/files/2608899)                        |
 | Ore Excavation           | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/ore-excavation/files/2607724)               | [1.10.2](https://minecraft.curseforge.com/projects/ore-excavation/files/2611340)               | [1.11](https://minecraft.curseforge.com/projects/ore-excavation/files/2611344)               | [1.12](https://minecraft.curseforge.com/projects/ore-excavation/files/2611347)               |
 | Pam's HarvestCraft       | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2270206)            | [1.10.2](https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2428363)            | [1.11](https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2410937)            | [1.12](https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2628183)            |
+| Quantum Storage          |   | [1.7.10](https://minecraft.curseforge.com/projects/quantumstorage/files/2266449)               | [1.10.2](https://minecraft.curseforge.com/projects/quantumstorage/files/2480992)               | [1.11](https://minecraft.curseforge.com/projects/quantumstorage/files/2442718)               | [1.12](https://minecraft.curseforge.com/projects/quantumstorage/files/2610377)               |
 | Random Things            |   | [1.7.10](https://minecraft.curseforge.com/projects/random-things/files/2225310)                | [1.10.2](https://minecraft.curseforge.com/projects/random-things/files/2407587)                | [1.11](https://minecraft.curseforge.com/projects/random-things/files/2433971)                | [1.12](https://minecraft.curseforge.com/projects/random-things/files/2636121)                |
 | Reliquary                |   | [1.7.10](https://minecraft.curseforge.com/projects/reliquary-v1-3/files/2323453)               | [1.10.2](https://minecraft.curseforge.com/projects/reliquary-v1-3/files/2423166)               | [1.11](https://minecraft.curseforge.com/projects/reliquary-v1-3/files/2454156)               | [1.12](https://minecraft.curseforge.com/projects/reliquary-v1-3/files/2624074)               |
 | Sleeping Bag             | ✖ | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/sleeping-bag/files/2348641)                 | -                                                                                            | -                                                                                            |
@@ -371,4 +378,5 @@ Pam's HarvestCraft and MineFactory Reloaded will crash. `B:MilkBucket` needs to 
 | JourneyMap                 | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/journeymap/files/2367915)           | [1.10.2](https://minecraft.curseforge.com/projects/journeymap/files/2498297)           | [1.11](https://minecraft.curseforge.com/projects/journeymap/files/2498301)           | [1.12](https://minecraft.curseforge.com/projects/journeymap/files/2498312)           |
 | ReAuth                     | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/reauth/files/2433412)               | [1.10.2](https://minecraft.curseforge.com/projects/reauth/files/2491402)               | [1.11](https://minecraft.curseforge.com/projects/reauth/files/2491372)               | [1.12](https://minecraft.curseforge.com/projects/reauth/files/2560638)               |
 
-
+### Suggestions / Vetos
+* Optifine? - Trixter
