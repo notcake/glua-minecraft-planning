@@ -29,7 +29,8 @@ Also see [part 2](https://hackmd.io/SqTTvNVQQ-GZN4KOjL6GWQ) for more mods.
 | 24th-25th November | Configure chat relay                         |
 | 24th-25th November | Configure world backups                      |
 | 24th-25th November | Ensure everyone spawns with an Ayn Rand book |
-| 1st December       | Launch server                                |
+| 26th-30th November | Beta test to find bugs and test backups      |
+| 1st December       | Reset world+seed and launch server           |
 
 ## Server
 _To be determined_
@@ -75,12 +76,15 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | mcd1992          | mcd1992              | ✔ |
 | + Cheesybacon    | Chelsea Berklin#1016 | ✔ |
 | + Xyxen          | Xyxen                | ✔ |
+| + Chickenmasher  | Chickenmasher#4849   | ✔ |
 | MeepDarknessMeep | meepen               | ✔ |
 | Miyjuoon         | Miyjuoon             | ✔ |
 | moatato          | motato               | ✔ |
 | notbadger        | Badger               | ✔ |
 | paully105        | code_gs              | ✔ |
 | swadical         | SwadicalRag          | ✔ |
+| + Sasstraliss    | Sassy                | ✔ |
+| + trapezius      | N/A                  | ✔ |
 | xChratis         | Chratis              | ✔ |
 | _Name_           | _Discord Name_       |   |
 
@@ -230,6 +234,7 @@ See [part 2](https://hackmd.io/SqTTvNVQQ-GZN4KOjL6GWQ) for smaller mods.
 * MFR in 1.12 = Industrial Foregoing. It's much better than the original MFR - swadical
 * `Traverse` is much better than `BiomesOPlenty` - swadical
 * RefinedStorage is known to be laggy, and we already have AE2 - Trixter
+* Lycanites Mobs adds too many useless mobs and its menu blocks other menus (like the claimed chunks menu and client settings) - ggg
 
 
 ### Conduits
@@ -293,6 +298,7 @@ Also see [part 1](https://hackmd.io/TVF3VpssTe2_X5AR86630g).
 | + CTM                    | ✔ | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/ctm/files/2584024)                          | [1.11](https://minecraft.curseforge.com/projects/ctm/files/2485008)                          | [1.12](https://minecraft.curseforge.com/projects/ctm/files/2629306)                          |
 | Cyberware                | ✖ | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/cyberware/files/2417998)                    | [1.11](https://minecraft.curseforge.com/projects/cyberware/files/2445700)                    | -                                                                                            |
 | Robotic Parts            | ✖ | -                                                                                              | -                                                                                              | -                                                                                            | [1.12](https://minecraft.curseforge.com/projects/roboticparts)                               |
+| Dakimakura Mod           | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/dakimakura-mod/files/2612205)               | [1.10.2](https://minecraft.curseforge.com/projects/dakimakura-mod/files/2614230)               | [1.11](https://minecraft.curseforge.com/projects/dakimakura-mod/files/2614231)               | [1.12](https://minecraft.curseforge.com/projects/dakimakura-mod/files/2614232)               |
 | Dense ores               | ✔ | [1.7.10](https://minecraft.curseforge.com/projects/dense-ores/files/2234692)                   | [1.10.2](https://minecraft.curseforge.com/projects/dense-ores/files/2422718)                   | [1.11](https://minecraft.curseforge.com/projects/dense-ores/files/2422718)                   | -                                                                                            |
 | Dense Metals             | ✔ | -                                                                                              | -                                                                                              | -                                                                                            | [1.12](https://minecraft.curseforge.com/projects/dense-metals/files/2605004)                 |
 | + MMD OreSpawn           | ✔ | -                                                                                              | [1.10.2](https://minecraft.curseforge.com/projects/mmd-orespawn/files/2533153)                 | [1.11](https://minecraft.curseforge.com/projects/mmd-orespawn/files/2533159)                 | [1.12](https://minecraft.curseforge.com/projects/mmd-orespawn/files/2616297)                 |
