@@ -75,8 +75,8 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Lixquid          | Lixquid              | ✔ |
 | mcd1992          | mcd1992              | ✔ |
 | + Cheesybacon    | Chelsea Berklin#1016 | ✔ |
-| + Xyxen          | Xyxen                | ✔ |
 | + Chickenmasher  | Chickenmasher#4849   | ✔ |
+| + Xyxen          | Xyxen                | ✔ |
 | MeepDarknessMeep | meepen               | ✔ |
 | Miyjuoon         | Miyjuoon             | ✔ |
 | moatato          | motato               | ✔ |
