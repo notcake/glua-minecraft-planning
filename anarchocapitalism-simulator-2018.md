@@ -229,7 +229,7 @@ See [part 2](https://hackmd.io/SqTTvNVQQ-GZN4KOjL6GWQ) for smaller mods.
 
 ### Suggestions / Vetos
 * Disable AE2 channels? - ggg, Trixter
-* Disable mob griefing - ggg
+* Disable mob griefing (/gamerule mobGriefing false) - ggg
 * Enable dungeons for Lycanites Mobs
 * Enable Biomes O' Plenty - ggg
 * Exclude RefinedStorage because it is laggy and we already have AE2 - Trixter
