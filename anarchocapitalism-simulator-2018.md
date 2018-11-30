@@ -57,6 +57,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Name             | Discord Name         |   |
 | ---------------- | -------------------- | - |
 | \_cake           | notcake              | ✔ |
+| + MercDerth      | MacDeth              | ✔ |
 | alexrsagen       | alex                 | ✔ |
 | AwfulRanger      | maven                | ✔ |
 | AxelSyverson     | axe                  | ✔ |
@@ -65,7 +66,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | CreeepyFace      | Trixter              | ✔ |
 | danielga         | MetaMan              | ✔ |
 | Deagler          | Deagler              | ✔ |
-| + InfernusN      | Infernus             |   |
+| + InfernusN      | Infernus             | ✔ |
 | ds84182          | ds84182              | ✔ |
 | Engine_Machiner  | Engine               | ✔ |
 | GGGKILLER        | GGG Killer           | ✔ |
