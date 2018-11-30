@@ -83,6 +83,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | + beanspr0ut     | giggles#3670         | ✔ |
 | notbadger        | Badger               | ✔ |
 | paully105        | code_gs              | ✔ |
+| PixelToast       | ping#0001            | ✔ |
 | swadical         | SwadicalRag          | ✔ |
 | + Sasstraliss    | Sassy                | ✔ |
 | + trapezius      | N/A                  | ✔ |
