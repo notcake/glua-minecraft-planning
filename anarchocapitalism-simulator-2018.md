@@ -78,7 +78,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | + Chickenmasher  | Chickenmasher#4849   | ✔ |
 | + Xyxen          | Xyxen                | ✔ |
 | MeepDarknessMeep | meepen               | ✔ |
-| Miyjuoon         | Miyjuoon             | ✔ |
+| Mijyuoon         | Mijyuoon             | ✔ |
 | moatato          | motato               | ✔ |
 | + beanspr0ut     | giggles#3670         | ✔ |
 | notbadger        | Badger               | ✔ |
