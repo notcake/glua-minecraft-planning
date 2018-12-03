@@ -33,7 +33,9 @@ Also see [part 2](https://hackmd.io/SqTTvNVQQ-GZN4KOjL6GWQ) for more mods.
 | 1st December       | Reset world+seed and launch server           |
 
 ## Server
-_To be determined_
+* Download the Technic Launcher from https://www.technicpack.net/download
+* Add the https://www.technicpack.net/modpack/glua-christmas-minecraft-2018 modpack
+* Connect to minecraft.glua.team
 
 ### Rules
 * Use common sense and be nice to others
@@ -62,6 +64,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | AwfulRanger      | maven                | ✔ |
 | AxelSyverson     | axe                  | ✔ |
 | bullet_striker   | mehni                | ✔ |
+| buzzkill70       | communistbomb        | ✔ |
 | CommanderNZ      | The Commander        | ✔ |
 | CreeepyFace      | Trixter              | ✔ |
 | danielga         | MetaMan              | ✔ |
@@ -73,6 +76,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | ItsEris          | pip                  | ✔ |
 | javascript_king  | cogg                 | ✔ |
 | Lead_Falcon      | FootsiesPajamies     | ✔ |
+| + TheCrossBoy    | crossboy             | ✔ |
 | Lixquid          | Lixquid              | ✔ |
 | mcd1992          | mcd1992              | ✔ |
 | + Cheesybacon    | Chelsea Berklin#1016 | ✔ |
@@ -80,6 +84,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | + Xyxen          | Xyxen                | ✔ |
 | MeepDarknessMeep | meepen               | ✔ |
 | Mijyuoon         | Mijyuoon             | ✔ |
+| miss__aria       | Aria                 | ✔ |
 | moatato          | motato               | ✔ |
 | + beanspr0ut     | giggles#3670         | ✔ |
 | notbadger        | Badger               | ✔ |
