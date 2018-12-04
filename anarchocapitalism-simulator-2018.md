@@ -68,6 +68,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | CommanderNZ      | The Commander        | ✔ |
 | CreeepyFace      | Trixter              | ✔ |
 | danielga         | MetaMan              | ✔ |
+| Datamats         | Datamats             | ✔ |
 | Deagler          | Deagler              | ✔ |
 | + InfernusN      | Infernus             | ✔ |
 | ds84182          | ds84182              | ✔ |
@@ -84,7 +85,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | + Xyxen          | Xyxen                | ✔ |
 | MeepDarknessMeep | meepen               | ✔ |
 | Mijyuoon         | Mijyuoon             | ✔ |
-| miss__aria       | Aria                 | ✔ |
+| miss__aria       | aria                 | ✔ |
 | moatato          | motato               | ✔ |
 | + beanspr0ut     | giggles#3670         | ✔ |
 | notbadger        | Badger               | ✔ |
