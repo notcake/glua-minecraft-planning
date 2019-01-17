@@ -72,6 +72,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Deagler          | Deagler              | ✔ |
 | + InfernusN      | Infernus             | ✔ |
 | ds84182          | ds84182              | ✔ |
+| + Rositchi       |                      | ✔ |
 | Engine_Machiner  | Engine               | ✔ |
 | GGGKILLER        | GGG Killer           | ✔ |
 | ItsEris          | pip                  | ✔ |
@@ -91,6 +92,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | notbadger        | Badger               | ✔ |
 | paully105        | code_gs              | ✔ |
 | PixelToast       | ping#0001            | ✔ |
+| Python1320       | Python1320           | ✔ |
 | swadical         | SwadicalRag          | ✔ |
 | + Sasstraliss    | Sassy                | ✔ |
 | + trapezius      | N/A                  | ✔ |
