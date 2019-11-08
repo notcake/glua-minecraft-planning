@@ -395,7 +395,9 @@ Pam's HarvestCraft and MineFactory Reloaded will crash. `B:MilkBucket` needs to 
 
 | Mod name                     |   | 1.7.10   | 1.10.2   | 1.12.2   | 1.14.4 |
 | ---------------------------- | - | -------- | -------- | -------- | ------ |
-| AdvancedMOTD                 | ✔ | -                                                                                | -                                                                                | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/advancedmotd/files/2567638) | -      |
-| DiscordChat                  | ✔ | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488800) | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488802) | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488804)  | -      |
+| AdvancedMOTD                 | ✔ | -                                                                                  | -                                                                                  | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/advancedmotd/files/2567638)  | -      |
+| Aroma Backup                 | ✔ | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/aromabackup/files/2284754)   | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/aromabackup/files/2510523)   | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/aromabackup/files/2776915)   | -      |
+| + Aroma1997Core              | ✔ | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2257644) | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2401214) | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2690354) | -      |
+| DiscordChat                  | ✔ | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488800)   | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488802)   | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488804)   | -      |
 
 ### Suggestions / Vetos
