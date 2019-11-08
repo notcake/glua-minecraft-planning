@@ -428,5 +428,6 @@ Pam's HarvestCraft and MineFactory Reloaded will crash. `B:MilkBucket` needs to 
 | Aroma Backup                 | ✔ | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/aromabackup/files/2284754)   | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/aromabackup/files/2510523)   | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/aromabackup/files/2776915)   | -      |
 | + Aroma1997Core              | ✔ | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2257644) | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2401214) | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2690354) | -      |
 | DiscordChat                  | ✔ | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488800)   | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488802)   | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/discordchat/files/2488804)   | -      |
+| MTQFix                       | ✔ | -                                                                                  | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/mtqfix/files/2379094)        | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/mtqfix/files/2530391)        | -      |
 
 ### Suggestions / Vetos
