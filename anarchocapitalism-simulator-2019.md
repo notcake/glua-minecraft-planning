@@ -53,27 +53,34 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 ### Whitelist
 **Read the rules before entering yourself in the table below.**
 
-| Minecraft Name    | Discord Name       |   |
-| ----------------- | ------------------ | - |
-| \_cake            | notcake#6575       | ✔ |
-| Lixquid           | Lixquid#8008       | ✔ |
-| Python1320        | Python1320#2741    | ✔ |
-| hotel\_california | hotel#0001         | ✔ |
-| CreeepyFace       | Trixter#0001       | ✔ |
-| ds84182           | ds84182#0001       | ✔ |
-| mcd1992           | mcd1992#1337       | ✔ |
-| danielga          | MetaMan#2738       | ✔ |
-| AwfulRanger       | AwfulRanger#9227   | ✔ |
-| Engine\_Machiner  | Engine#6890        | ✔ |
-| mehni             | mehni#0420         | ✔ |
-| i\_pwn\_u         | !PwnU#8507         | ✔ |
-| \_SneakySquid     | SneakySquid#6450   | ✔ |
-| GGGKILLER         | GGG KILLER#8438    | ✔ |
-| notbadger         | badger#0100        | ✔ |
-| CommanderNZ       | The Commander#5092 | ✔ |
-| oplexz            | oplexz#7513        | ✔ |
-| Datamats          | Mats#6045          | ✔ |
-| _Minecraft Name_  | _Discord Name_     |   |
+| Minecraft Name    | Discord Name         |   |
+| ----------------- | -------------------- | - |
+| \_cake            | notcake#6575         | ✔ |
+| Lixquid           | Lixquid#8008         | ✔ |
+| Python1320        | Python1320#2741      | ✔ |
+| hotel\_california | hotel#0001           | ✔ |
+| CreeepyFace       | Trixter#0001         | ✔ |
+| ds84182           | ds84182#0001         | ✔ |
+| mcd1992           | mcd1992#1337         | ✔ |
+| + Cheesybacon     | Chelsea Berklin#1016 | ✔ |
+| + Chickenmasher   | Chickenmasher#4849   | ✔ |
+| + Xyxen           | Xyxen#1536           | ✔ |
+| + fredricton1     | _N/A_                | ✔ |
+| + Dumfawks        | Dumfawks#9274        | ✔ |
+| + Trollestia      | Tabigotchi#0156      | ✔ |
+| danielga          | MetaMan#2738         | ✔ |
+| AwfulRanger       | AwfulRanger#9227     | ✔ |
+| Engine\_Machiner  | Engine#6890          | ✔ |
+| mehni             | mehni#0420           | ✔ |
+| i\_pwn\_u         | !PwnU#8507           | ✔ |
+| \_SneakySquid     | SneakySquid#6450     | ✔ |
+| GGGKILLER         | GGG KILLER#8438      | ✔ |
+| notbadger         | badger#0100          | ✔ |
+| CommanderNZ       | The Commander#5092   | ✔ |
+| oplexz            | oplexz#7513          | ✔ |
+| Datamats          | Mats#6045            | ✔ |
+| swadical          | swadicalrag#6992     | ✔ |
+| _Minecraft Name_  | _Discord Name_       |   |
 
 ## Server Hosting
 
