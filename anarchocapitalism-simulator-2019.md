@@ -81,6 +81,8 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Datamats          | Mats#6045            | ✔ |
 | swadical          | swadicalrag#6992     | ✔ |
 | pr0pkiLL\_E1337   | cogg#3533            | ✔ |
+| Miss\_\_Aria      | aria#9888            | ✔ |
+| MeepDarknessMeep  | Meepen#0073          | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
 ## Server Hosting
