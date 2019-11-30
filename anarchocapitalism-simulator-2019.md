@@ -84,6 +84,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | pr0pkiLL\_E1337   | cogg#3533            | ✔ |
 | Miss\_\_Aria      | aria#9888            | ✔ |
 | MeepDarknessMeep  | Meepen#0073          | ✔ |
+| Abzster23         | vingheou#5564        | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
 ## Server Hosting
