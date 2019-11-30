@@ -68,6 +68,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | + fredricton1     | _N/A_                | ✔ |
 | + Dumfawks        | Dumfawks#9274        | ✔ |
 | + Trollestia      | Tabigotchi#0156      | ✔ |
+| + Seanald         | Jürk#8099            | ✔ |
 | danielga          | MetaMan#2738         | ✔ |
 | AwfulRanger       | AwfulRanger#9227     | ✔ |
 | Engine\_Machiner  | Engine#6890          | ✔ |
