@@ -86,6 +86,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | MeepDarknessMeep  | Meepen#0073          | ✔ |
 | Abzster23         | vingheou#5564        | ✔ |
 | Axel36            | Axel#2464            | ✔ |
+| Mijyuoon          | mijyuoon#6666        | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
 ## Server Hosting
