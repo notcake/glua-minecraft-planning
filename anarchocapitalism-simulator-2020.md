@@ -78,7 +78,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | notbadger         | badger#0100          | ✔ |
 | CommanderNZ       | The Commander#5092   | ✔ |
 | oplexz            | oplexz#7513          | ✔ |
-| m4tsa             | Mats#6045            | ❌ |
+| m4tsa             | Mats#6045            | ✔ |
 | swadical          | swadicalrag#6992     | ✔ |
 | pr0pkiLL\_E1337   | cogg#3533            | ✔ |
 | + Coraay          | Coray#3784           | ✔ |
