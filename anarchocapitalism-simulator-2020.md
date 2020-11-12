@@ -57,7 +57,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | + Cheesybacon     | Chelsea Berklin#1016 | ✔ |
 | + Chickenmasher   | Chickenmasher#4849   | ✔ |
 | + Xyxen           | Xyxen#1536           | ✔ |
-| + fredricton1     | _N/A_                | ✔ |
+| + Faemor          | Taymor#7903          | ✔ |
 | + Dumfawks        | Dumfawks#9274        | ✔ |
 | + Trollestia      | Tabigotchi#0156      | ✔ |
 | + Seanald         | Jürk#8099            | ✔ |
@@ -70,14 +70,14 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | GGGKILLER         | GGG KILLER#8438      | ✔ |
 | notbadger         | badger#0100          | ✔ |
 | CommanderNZ       | The Commander#5092   | ✔ |
-| oplexz            | oplexz#7513          | ✔ |
+| WhoisYeo          | oplexz#7513          | ✔ |
 | m4tsa             | Mats#6045            | ✔ |
 | swadical          | swadicalrag#6992     | ✔ |
-| pr0pkiLL\_E1337   | cogg#3533            | ✔ |
+| THICC_DUMPER      | cogg#3533            | ✔ |
 | + Coraay          | Coray#3784           | ✔ |
 | Miss\_\_Aria      | aria#9888            | ✔ |
-| MeepDarknessMeep  | Meepen#0073          | ✔ |
-| Abzster23         | vingheou#5564        | ✔ |
+| meepenn           | Meepen#0073          | ✔ |
+| Wingiu            | wing#5564            | ✔ |
 | Axel36            | Axel#2464            | ✔ |
 | Mijyuoon          | mijyuoon#6666        | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
