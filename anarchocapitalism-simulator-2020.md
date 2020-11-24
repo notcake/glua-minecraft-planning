@@ -80,6 +80,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Wingiu            | wing#5564            | ✔ |
 | Axel36            | Axel#2464            | ✔ |
 | Mijyuoon          | mijyuoon#6666        | ✔ |
+| alexrsagen        | Alexander#6863       | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
 ## Shared Mods
