@@ -16,17 +16,10 @@
 
 * Keep the mod tables computer-readable!
 
-## TODO
+## Schedule
 | Date               | Task                                         |
 | ------------------ | -------------------------------------------- |
-| 1st November       | Call for mods                                |
-| 1st November       | Call for players                             |
-| 16th-17th November | Arrange server hosting                       |
-| 23rd-24th November | Finalize mods                                |
-| 23rd-24th November | Finalize config                              |
-| 23rd-24th November | Configure chat relay                         |
-| 23rd-24th November | Configure world backups                      |
-| 1st December       | Reset world+seed and launch server           |
+| 1st December       | Launch server                                |
 
 ## Server
 * Download the Technic Launcher from https://www.technicpack.net/download
