@@ -81,36 +81,6 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Axel36            | Axel#2464            | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
-## Server Hosting
-
-All prices exclude VAT.
-
-| Provider     | Name            | CPU               | RAM   | Disk   | Location        | Monthly cost  |
-| ------------ | --------------- | ----------------- | ----- | ------ | --------------- | ------------- |
-| DigitalOcean |                 | 4 vCPUs           |  8 GB | 160 GB | NY/London       |    40    USD  |
-| DigitalOcean |                 | 6 vCPUs           | 16 GB | 320 GB | NY/London       |    80    USD  |
-| DigitalOcean |                 | 8 vCPUs           | 32 GB | 640 GB | NY/London       |   160    USD  |
-| Linode       |                 | 4 CPUs            |  8 GB | 160 GB |                 |    40    USD  |
-| Linode       |                 | 6 CPUs            | 16 GB | 320 GB |                 |    80    USD  |
-| Linode       |                 | 8 CPUs            | 32 GB | 640 GB |                 |   160    USD  |
-| Linode       |                 | 1 CPU             | 24 GB |  20 GB |                 |    60    USD  |
-| Vultr        |                 | 4 CPUs            |  8 GB | 160 GB |                 |    40    USD  |
-| Vultr        |                 | 6 CPUs            | 16 GB | 320 GB |                 |    80    USD  |
-| Vultr        |                 | 8 CPUs            | 32 GB | 640 GB |                 |   160    USD  |
-| OVH          | VPS SSD 3       | 2 vCores @2   GHz |  8 GB |  80 GB | Montreal/London |    11.99 GBP  |
-| OVH          | VPS Cloud 3     | 4 vCores @3   GHz |  8 GB | 100 GB | Montreal/London |    26.99 GBP  |
-| OVH          | VPS Cloud RAM 1 | 1 vCore  @2   GHz |  6 GB |  25 GB | Montreal/London |     7.99 GBP  |
-| OVH          | VPS Cloud RAM 2 | 2 vCores @2   GHz | 12 GB |  50 GB | Montreal/London |    15.99 GBP  |
-| OVH          | VPS Cloud RAM 3 | 4 vCores @2   GHz | 24 GB | 100 GB | Montreal/London |    26.99 GBP  |
-| Soyoustart   | E3-SAT-1-16     | 4 cores  @3.2 GHz | 16 GB |   2 TB | Canada/France   |    31.99 GBP  |
-| Soyoustart   | OP-SAT-1-32     | 6 cores  @3.1 GHz | 32 GB |   2 TB | Canada/France   |    31.99 GBP  |
-| Soyoustart   | E3-SAT-1-32     | 4 cores  @3.4 GHz | 32 GB |   2 TB | Canada/France   |    35.99 GBP  |
-| Soyoustart   | E3-SSD-1-32     | 4 cores  @3.4 GHz | 32 GB | 480 GB | Canada/France   |    35.99 GBP  |
-| Soyoustart   | E3-SAT-2-32     | 4 cores  @3.4 GHz | 32 GB |   2 TB | Canada/France   |    44.99 GBP  |
-| Soyoustart   | E3-SSD-2-32     | 4 cores  @3.4 GHz | 32 GB | 480 GB | Canada/France   |    44.99 GBP  |
-| Soyoustart   | GAME-1          | 4 cores  @4   GHz | 16 GB | 120 GB | Canada/France   |    31.99 GBP  |
-| Soyoustart   | GAME-2          | 4 cores  @4   GHz | 32 GB | 240 GB | Canada/France   |    40.99 GBP  |
-
 ## Shared Mods
 
 | Mod name                      |   | 1.7.10   | 1.10.2   | 1.12.2   | 1.14.4 | 1.15.2 | 1.16.1 | 1.16.3 |
