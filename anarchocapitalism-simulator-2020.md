@@ -827,6 +827,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 * Exclude Global XP because XP Tome already adds something similar. - !cake, swadical
 * Exclude GraveStone Mod since it duplicates functionality from OpenBlocks. - !cake
 * Re-include GraveStone Mod since OpenBlocks has no 1.15.2 version. - mcd1992
+* Include Harvest, otherwise holding down right click with bone meal does not harvest crops. - !cake
 * Exclude Howling Moon because it was awful in 2017. - !cake
 * Exclude LootBags. Go explore dungeons instead. - !cake
 * Exclude Lycanites Mobs because no one likes it. - !cake
