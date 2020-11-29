@@ -818,15 +818,15 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 * Exclude Deep Resonance because it was not that useful as a power generation mod in 2017. - !cake
 * Exclude Extreme Reactors. Go explore Environmental Tech's generators. - !cake
 * Exclude Galacticraft because no one used it in 2018. - !cake
-* Exclude LootBags. Go explore dungeons instead. - !cake
-* Exclude Lycanites Mobs because no one likes it. - !cake
-* Include Thaumcraft because SneakySquid and mcd1992's friends want to use it. - !cake, mcd1992
-* Include RailCraft because mcd1992 wants to use it. - mcd1992
-* Exclude Ruins to reduce worldgen lag because it has no / little loot unlike Roguelike Dungeons. - !cake, mcd1992
-* Pam's HarvestCraft and MineFactory Reloaded will crash. `B:MilkBucket` needs to be set to false in the MFR config (`config/powercrystals/minefactoryreloaded/common.cfg`).
 * Exclude GraveStone Mod since it duplicates functionality from OpenBlocks. - !cake
 * Re-include GraveStone Mod since OpenBlocks has no 1.15.2 version. - mcd1992
 * Exclude Howling Moon because it was awful in 2017. - !cake
-* Exclude TreeCapitator because it duplicates functionality from OreExcavator and OreExcavator is better. - swadical
+* Exclude LootBags. Go explore dungeons instead. - !cake
+* Exclude Lycanites Mobs because no one likes it. - !cake
 * Exclude Pet Craft because it does not support the latest Forge version. - mcd1992
+* Include RailCraft because mcd1992 wants to use it. - mcd1992
+* Exclude Ruins to reduce worldgen lag because it has no / little loot unlike Roguelike Dungeons. - !cake, mcd1992
+* Include Thaumcraft because SneakySquid and mcd1992's friends want to use it. - !cake, mcd1992
+* Exclude TreeCapitator because it duplicates functionality from OreExcavator and OreExcavator is better. - swadical
+* Pam's HarvestCraft and MineFactory Reloaded will crash. `B:MilkBucket` needs to be set to false in the MFR config (`config/powercrystals/minefactoryreloaded/common.cfg`).
 * Nether Metals will not generate nether ores without Base Metals, regardless of what the mod description claims. - !cake
