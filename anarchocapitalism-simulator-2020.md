@@ -71,6 +71,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | notbadger         | badger#0100          | ✔ |
 | CommanderNZ       | The Commander#5092   | ✔ |
 | WhoisYeo          | oplexz#7513          | ✔ |
+| + AntonSursky     | СУРСКИЙ#0687         | ✔ |
 | m4tsa             | Mats#6045            | ✔ |
 | swadical          | swadicalrag#6992     | ✔ |
 | THICC_DUMPER      | cogg#3533            | ✔ |
@@ -82,7 +83,6 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Mijyuoon          | mijyuoon#6666        | ✔ |
 | alexrsagen        | Alexander#6863       | ✔ |
 | Willox            | Willox#1337          | ✔ |
-| AntonSursky       | СУРСКИЙ#0687         | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
 ## Shared Mods
