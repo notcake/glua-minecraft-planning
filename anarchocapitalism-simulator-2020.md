@@ -71,6 +71,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | notbadger         | badger#0100          | ✔ |
 | CommanderNZ       | The Commander#5092   | ✔ |
 | WhoisYeo          | oplexz#7513          | ✔ |
+| + AntonSursky     | СУРСКИЙ#0687         | ✔ |
 | m4tsa             | Mats#6045            | ✔ |
 | swadical          | swadicalrag#6992     | ✔ |
 | THICC_DUMPER      | cogg#3533            | ✔ |
