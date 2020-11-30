@@ -843,6 +843,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 * Include Thaumcraft because SneakySquid and mcd1992's friends want to use it. - !cake, mcd1992
 * Exclude Trash Cans because WTBW Core already provides some. - !cake, swadical
 * Exclude TreeCapitator because it duplicates functionality from OreExcavator and OreExcavator is better. - swadical
+* Include Upsizer Mod [FORGE] since Cyclic 1.15.2 does not raise item stack sizes. - !cake
 * Exclude YAMDA - Yet Another Mining Dimension Attempt because it crashes on teleport with AmbientSounds 3 installed and Buuz135s Dimensional Worlds already adds a mining dimension. - !cake
 * Pam's HarvestCraft and MineFactory Reloaded will crash. `B:MilkBucket` needs to be set to false in the MFR config (`config/powercrystals/minefactoryreloaded/common.cfg`).
 * Nether Metals will not generate nether ores without Base Metals, regardless of what the mod description claims. - !cake
