@@ -85,6 +85,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | Mijyuoon          | mijyuoon#6666        | ✔ |
 | alexrsagen        | Alexander#6863       | ✔ |
 | Willox            | Willox#1337          | ✔ |
+| 2_PINK_1_STINK    | Billy#0420           | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
 ## Shared Mods
