@@ -70,7 +70,8 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | i\_pwn\_u         | !PwnU#8507           | ✔ |
 | \_SneakySquid     | SneakySquid#6450     | ✔ |
 | GGGKILLER         | GGG KILLER#8438      | ✔ |
-| notbadger         | badger#0100          | ✔ |
+| notbadger         | Badger#9999          | ✔ |
+| + ItzBankz        | Banks#4231           | ✔ |
 | CommanderNZ       | The Commander#5092   | ✔ |
 | WhoisYeo          | oplexz#7513          | ✔ |
 | + Kaeritai        | oplexz#7513          | ✔ |
