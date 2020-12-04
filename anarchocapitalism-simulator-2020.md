@@ -90,6 +90,7 @@ These rules are not exhaustive and will be applied at the discretion of the admi
 | 2_PINK_1_STINK    | Billy#0420           | ✔ |
 | SparMC            | Spar#6665            | ✔ |
 | Jvstlc            | Jvs#8436             | ✔ |
+| Ahegao360         | siri#5473            | ✔ |
 | _Minecraft Name_  | _Discord Name_       |   |
 
 ## Shared Mods
