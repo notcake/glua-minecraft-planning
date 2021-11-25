@@ -1,16 +1,13 @@
-name = "All of Fabric 4"
-author = "TeamAOF"
-version = "1.1.1"
+name = "Anarchocapitalism Simulator 2021"
+author = "GLua"
+version = "1.0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+hash = "1ccb62f8b25f877319d1370af1e711012062763e7b548afce50ab0917eada60d"
 
 [versions]
 fabric = "0.12.5"
 minecraft = "1.17.1"
-
-[options]
-mods-folder = "toml_mods"
-no-internal-hashes = "true"
