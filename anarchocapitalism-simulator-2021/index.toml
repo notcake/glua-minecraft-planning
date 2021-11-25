@@ -825,6 +825,15 @@ file = "config/yosbr/options.txt"
 hash = "a75661a5969ea51a4c8ef98e6e3785ea7be4456498da649ae5ca48810665fbb9"
 
 [[files]]
+file = "eula.txt"
+hash = "f791de2bc2e5503e69f61e1884f77881476338d203850af0520f4487487be643"
+
+[[files]]
+file = "fabric-installer.toml"
+hash = "9e28442701ad2296b0b29b74e75680cca7f134307bb4cae637ba855e3de80839"
+metafile = true
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "2475daea9c01ef4b3cb6b8d18e8a4d88509113abaa313cd843943d311a06bcea"
 
@@ -2075,3 +2084,7 @@ metafile = true
 file = "mods/yungs-better-strongholds-fabric.toml"
 hash = "06bfe7a5e576133d17efd406e026dfa2e869d3fdcf7beab59579fc008c5779ea"
 metafile = true
+
+[[files]]
+file = "whitelist.json"
+hash = "ae6efff8ac7aa732540afbe9a66783268cc7a0f85d4a2d935eae7b7e33cb9391"

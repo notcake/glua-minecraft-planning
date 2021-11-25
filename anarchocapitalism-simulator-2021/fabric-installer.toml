@@ -1,0 +1,8 @@
+name = "Fabric Installer"
+filename = "fabric-installer-0.9.0.jar"
+side = "server"
+
+[download]
+url = "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.9.0/fabric-installer-0.9.0.jar"
+hash-format = "sha256"
+hash = "11bf2058eb2d0441e1af38f570c5b920571449dadb2e316fcf021ba78443592b"
