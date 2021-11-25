@@ -1,0 +1,14 @@
+name = "CC: Restitched"
+filename = "cc-restiched-1.97.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3529/55/cc-restiched-1.97.2.jar"
+hash-format = "murmur2"
+hash = "3188944045"
+
+[update]
+[update.curseforge]
+file-id = 3529055
+project-id = 462672
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Villager Hats Mod"
+filename = "villager-hats-mod-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3477/938/villager-hats-mod-1.2.1.jar"
+hash-format = "murmur2"
+hash = "1418550700"
+
+[update]
+[update.curseforge]
+file-id = 3477938
+project-id = 501456
+release-channel = "beta"

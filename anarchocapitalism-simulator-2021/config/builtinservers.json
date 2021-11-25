@@ -1,0 +1,12 @@
+{
+  "builtinServers": [
+  	{
+      "name": "EU Server",
+      "address": "aof4eu.alloffabric.com"
+    },
+    {
+      "name": "NA Server",
+      "address": "nw.alloffabric.com"
+    }
+  ]
+}
