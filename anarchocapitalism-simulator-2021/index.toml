@@ -1950,11 +1950,6 @@ hash = "eb66f703407bb889d138926ff713f48e1565cabdaf8a3261e94d70a4b2985ce0"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-degus.toml"
-hash = "477850c5cd54ba8078f881f148f411f4f003f8b78d404f43dd753c2d9b7b328b"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-excavators.toml"
 hash = "4f94912036f62556f86bfcd4b5354d8cf998d6184045264c50e1ab539752dfe3"
 metafile = true
