@@ -1931,11 +1931,6 @@ hash = "d53666d6932dd72fbd71bcefd5fdd8b3c7155685076101e28e2a72694ef114ee"
 metafile = true
 
 [[files]]
-file = "mods/textile-backup.toml"
-hash = "748328d922b71b345a5d3b4b427d08238c0c1a35a469494361b268923c7ef6f0"
-metafile = true
-
-[[files]]
 file = "mods/the-graveyard-fabric.toml"
 hash = "e0b46c711eb09082c5e5711af5338da5527e86057a4cb94332aafa907906c2d0"
 metafile = true
