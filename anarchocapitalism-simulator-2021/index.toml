@@ -201,10 +201,6 @@ file = "config/building_gadgets.json"
 hash = "fdb69138b3054185b2024c4604889f0d258c58ecf3698a185d02c2a3b6e786c6"
 
 [[files]]
-file = "config/builtinservers.json"
-hash = "7fe3af5e25e653581e1e7d31431daee31e215f638614395d84a9683f78f9cf5a"
-
-[[files]]
 file = "config/campanion.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -518,7 +514,7 @@ hash = "9ed15f41f30c53e94c6d13d4263ca28d55c581b74508a4525ad68da56d44623b"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "bcad80fda784b731147cc02800ac5a781fa3e68fdcb5d492ae6951f5402f3e50"
+hash = "6924cf20dc4fa2a2013cdfe7f0ee546c387d13aeb8299695c9d38d4ac5ff55ce"
 
 [[files]]
 file = "config/morevillagers.toml"
@@ -655,34 +651,6 @@ hash = "35d82e00bc33207f3e3d5a7f64b1397d7528c0dcc441feb48704b210db249923"
 [[files]]
 file = "config/skinnedlanterns.json"
 hash = "2a95e7e23c9813f1f1dc3c83b3a3e086179b6022a72c26b94f92994364fcb129"
-
-[[files]]
-file = "config/slightguimodifications/background.png"
-hash = "f9be1a313ed53aa6710d95f39683cf37be01f4c1ad91f60718188b5938aa17ae"
-
-[[files]]
-file = "config/slightguimodifications/buttons.png"
-hash = "3c10a4859e4ad3981253a0f271e008aee7c098abd3efbb91d6082d31c9fb908c"
-
-[[files]]
-file = "config/slightguimodifications/config.json5"
-hash = "f942bd6a3c6ae1de78fa4186ade633e8d5408ce4f6d18369a8f846ab180ca22b"
-
-[[files]]
-file = "config/slightguimodifications/cts.groovy"
-hash = "e1eaeb959f7806b96493764b7cc6275aa2a995c07ea0166a0d40a07929627102"
-
-[[files]]
-file = "config/slightguimodifications/slider.png"
-hash = "44181e5fc41e173b19fbed13e18dfeecc825594a2a3f2462111b2f5d96c6e418"
-
-[[files]]
-file = "config/slightguimodifications/slider_hovered.png"
-hash = "ccd8ad34d01edc76f78dce51536da94ba3781475f73b5d2e219486151501db87"
-
-[[files]]
-file = "config/slightguimodifications/text_field.png"
-hash = "9275a459f7cde4c841e5ac1183a09fc44260dbfa93c161bc00a401e246ab3b18"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -883,7 +851,7 @@ hash = "c2684cac2664bcb8749958e04fd90a5c8ce4ac1803b229aa91d223551c9a71da"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "71a53f867164a932c4b8e6a48be5dbf2dec6f24dc9b44b138a11351f63be71cc"
+hash = "6c71bdd5e2500d8e43dd067d7b89c33be8c857704b3fb080e61c6dcc9efb5227"
 
 [[files]]
 file = "kubejs/config/common.properties"
@@ -996,10 +964,6 @@ hash = "c3c6c98c9b94783fef312cf6f294d2a695109347a9161553abceaf14ba51748f"
 [[files]]
 file = "kubejs/server_scripts/unification/materials.js"
 hash = "8f4315d52566d9d2ec0e8cc0ee301b292bffea0de881309127e3e722200091b9"
-
-[[files]]
-file = "kubejs/startup_scripts/packversion.js"
-hash = "e73d3cd52785f8d960993ed40b25f715ce52fa09a01a94e9ece76d6582cb040a"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
@@ -1883,11 +1847,6 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "da53f8db3e18ac6384f5cbbb890a831963e39c788ebf396029fa6d807f763f28"
-metafile = true
-
-[[files]]
-file = "mods/slight-gui-modifications.toml"
-hash = "e0dbfb0ae19e329c972716748125ff0722c87eb4c63f3b4b7dda28361a6cf83d"
 metafile = true
 
 [[files]]
