@@ -1115,6 +1115,11 @@ hash = "2ab7052fdbfe48521b1ef6a6175b799a93ad5248e6a1b7697f85d8c8dc49997b"
 metafile = true
 
 [[files]]
+file = "mods/botania-fabric.toml"
+hash = "5a8b08a84f54e9cda36570847dfa7260f40e0283e1094aed9ce68fdfb3581b92"
+metafile = true
+
+[[files]]
 file = "mods/bountiful-fabric.toml"
 hash = "80c8f1bcea3358b4776e77929c9ff89b4244f9fb59f81644939e42124769fa0f"
 metafile = true
@@ -1222,6 +1227,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks-fabric.toml"
 hash = "f5861f59dcc61b51a28e394496e17379788b10fbb5a288fc4a16f7ecdc6c88d5"
+metafile = true
+
+[[files]]
+file = "mods/crooked-crooks.toml"
+hash = "e2f1596b48ee2039386d6e0983f63714ded65b68034d8cf3ca366a9dfad5e640"
 metafile = true
 
 [[files]]
@@ -1450,11 +1460,6 @@ hash = "710a50a54d92e95941fce809c550870b9840570135221b0de9b40bfc399a8838"
 metafile = true
 
 [[files]]
-file = "mods/goosiks-villager-hats.toml"
-hash = "20ae05ccbbe3193df36acd14dd11632e2b960af21132021fd0ad4548b0569d6b"
-metafile = true
-
-[[files]]
 file = "mods/grims-transportables.toml"
 hash = "36691a3682702e2e62fe436c136b8015f36d90ee7d6b927bba78a478ad5407fb"
 metafile = true
@@ -1675,8 +1680,8 @@ hash = "a7cb3a971ecd2c5e07c3906767c3c53a656331148cfc2e5505f0f9e21c4fdaf9"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.toml"
-hash = "874b647d4f874784033db556510927ae90efc098abad75c95d8fe00878ecdc64"
+file = "mods/mouse-tweaks.toml"
+hash = "6cb5b9b5966bc14f695ac34708f457a4affe8479b6ebf3a2e2f9572adfbdfa67"
 metafile = true
 
 [[files]]
@@ -1965,6 +1970,11 @@ hash = "196fb3cf2023eec763c240bc387d1a69d504aecc1a039b313d7fd5073e455e98"
 metafile = true
 
 [[files]]
+file = "mods/villager-hats-mod.toml"
+hash = "38b1d6d4eca10f871e93ec70f8a26ea9de66927ed29b5a013ccff12b6020e9a3"
+metafile = true
+
+[[files]]
 file = "mods/visuality.toml"
 hash = "af523dbee14b4b3da99db2b2dfcfc1a7c697dd80fa6284ce45a30216357bf084"
 metafile = true
@@ -1985,7 +1995,7 @@ hash = "48c10d86a1318d9def910e3a82740455d76920331dff62dcc78415568266620d"
 metafile = true
 
 [[files]]
-file = "mods/wmitef.toml"
+file = "mods/wmitaf.toml"
 hash = "a28b1a3f406017e82306084e0e2755e888c1ec2561192f4fd48e656695ec035a"
 metafile = true
 
