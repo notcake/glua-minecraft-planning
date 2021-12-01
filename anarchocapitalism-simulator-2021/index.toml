@@ -1845,6 +1845,11 @@ hash = "d6a01de396b99e413706ee68e5c80bcf32245f823413d29be864788785637e5c"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "90f87cf77761311a16bbfdb7735b0078b3c8ac7290f8276276726ae880dd82a8"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "da53f8db3e18ac6384f5cbbb890a831963e39c788ebf396029fa6d807f763f28"
 metafile = true
