@@ -1,0 +1,13 @@
+name = "EasyWhitelist"
+filename = "easywhitelist-mc1.18.1-1.0.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "b1f150c7db241b0231759d9c2f4980777bd9fc64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3618454
+project-id = 543767
