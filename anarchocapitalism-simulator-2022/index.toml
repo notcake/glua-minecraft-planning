@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "NOTES.md"
-hash = "108b1b6e6c7c335d65f51e154eddcd444e70e4b5caa2ae99793b74483e8a3533"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "cd7e9a0b0248131ee7923eb63a9a61f41efbe57ee6b0919c003693ecba52a6ae"
 
@@ -6498,6 +6494,11 @@ hash = "413d0984a3d66fa6b1136956a77ecafe70e0091ea24da4b016573ee3f1e06d0a"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "2047bfc9f05d71ca26602f0ce473edc71da087a44ce6a69e31bc552d13331ae7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "7e434fc3d8b60eaf434808aa5acca81e4e55ea1d655ddf905c56f81ad8091017"
 metafile = true
@@ -6925,6 +6926,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "3658e9998e84e8058d7eee429c19059206fe54deb69a6bc4f07f59d9ef9ff865"
 metafile = true
 
 [[files]]
