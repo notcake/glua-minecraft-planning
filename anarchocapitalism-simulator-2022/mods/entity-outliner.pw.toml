@@ -1,0 +1,19 @@
+name = "Entity Outliner"
+filename = "entity-outliner-1.2.1+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3681/385/entity-outliner-1.2.1+1.18.2.jar"
+hash-format = "murmur2"
+hash = "619848603"
+
+[update]
+[update.curseforge]
+file-id = 3681385
+project-id = 389848
+
+[option]
+optional = true
+default = false
+description = "downloads all your nudes"
+

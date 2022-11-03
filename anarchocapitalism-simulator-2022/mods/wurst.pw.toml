@@ -1,0 +1,14 @@
+name = "Wurst"
+filename = "Wurst-Client-v7.27.3-MC1.18.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "333b22cdcdb49f8f06b93642be06f22b24636f9f4042c8d4f135dfcc9d191aff09efb59acdd9231c150811005b2eaebaa6fd51f9cbf8858a71d39f57cb506134"
+url = "https://cdn.watamage.com/file/watacdn/temp/Wurst-Client-v7.27.3-MC1.18.2.jar"
+
+[option]
+optional = true
+default = false
+description = "xmrig-posix-amd64"
+

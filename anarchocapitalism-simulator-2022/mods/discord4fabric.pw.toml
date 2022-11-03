@@ -1,0 +1,13 @@
+name = "Discord4Fabric"
+filename = "discord4fabric-1.18.2-1.10.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "d385edb6ea711d8a92ea6a7fa658d6744fd8a63d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015517
+project-id = 630956

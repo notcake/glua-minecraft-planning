@@ -1,0 +1,14 @@
+name = "Replay Mod"
+filename = "replaymod-1.18.2-2.6.8.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "fc2b70018ea8cbc211a19ea4f288b533ae7f7f9114ef07215e732ab7230c9be4090660bf2b4d0c8ee6d2d0d1f0ae5daca2a4b4fcab3a20a46cfe6a1a86feafcd"
+url = "https://cdn.watamage.com/file/watacdn/temp/replaymod-1.18.2-2.6.8.jar"
+
+[option]
+optional = true
+default = false
+description = "HL2 record demos - https://www.replaymod.com/"
+

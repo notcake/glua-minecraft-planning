@@ -1,6 +1,6 @@
 name = "Bobby"
 filename = "bobby-3.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,9 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3686441
 project-id = 409301
+
+[option]
+optional = true
+default = false
+description = "Cache chunks clientside for increased view distance"
+

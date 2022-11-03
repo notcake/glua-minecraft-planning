@@ -1,0 +1,14 @@
+name = "Baritone"
+filename = "baritone-standalone-fabric-1.8.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "cc4fd83b014f170d4c9654e6c4a21f2e598a675dc501651efe4198f0ceb3b450cd8c1bd87caf96df20eb5f1d825dc5e12662e1e49fbcf4f4cc1156eb3ecb14c3"
+url = "https://cdn.watamage.com/file/watacdn/temp/baritone-standalone-fabric-1.8.3.jar"
+
+[option]
+optional = true
+default = false
+description = "xmrig-windows-amd64"
+
