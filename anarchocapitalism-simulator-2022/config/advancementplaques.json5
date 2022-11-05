@@ -1,12 +1,12 @@
 {
 	// If plaques should show on the top of the screen.
-	"onTop": true,
+	"onTop": false,
 	// The distance from the top or bottom of the screen, in pixels.
-	"distance": 16,
+	"distance": 32,
 	// The horizontal offset from the center, in pixels.
 	"horizontalOffset": 0,
 	// Hide waila/hwyla/jade/wthit popups while plaques are showing.
-	"hideWaila": true,
+	"hideWaila": false,
 	// If plaques should show for task advancements (normal advancements).
 	"tasks": true,
 	// If plaques should show for goal advancements (medium-difficulty advancements).

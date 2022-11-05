@@ -66,7 +66,7 @@ hash = "f829556e373112e9f87850646448dbe440f2f630b330bf4026990c2f4d0c15de"
 
 [[files]]
 file = "config/advancementplaques.json5"
-hash = "c392b9418c0a6da7edf3f119efa32c717378084f37ea8c1cd515bbb20eaa1ce1"
+hash = "c90e29db235756fbb800d2b3c2203cb25d375f0f03ada63d386978a2d8a0f11d"
 
 [[files]]
 file = "config/adventurez.json5"
