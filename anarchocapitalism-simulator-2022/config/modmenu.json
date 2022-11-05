@@ -12,7 +12,7 @@
   "hide_badges": false,
   "hide_mod_credits": false,
   "easter_eggs": true,
-  "modify_title_screen": false,
+  "modify_title_screen": true,
   "modify_game_menu": true,
   "hide_config_buttons": false,
   "hidden_mods": []
