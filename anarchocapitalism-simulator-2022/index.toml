@@ -6995,6 +6995,11 @@ hash = "2153838f38dd58059732e9398bcd11b39f1783dbddf274349baddcb5f49bca1e"
 metafile = true
 
 [[files]]
+file = "mods/offlineskins-fabric.pw.toml"
+hash = "b46df47968c60f49c9ae4b85b8dc440a5ff57f0c0bc9485ce3d5dd4bf02d13d3"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "91e6ca5321ae6fa135d921fc2c56b0e98c1fb01ec0f296906b95200222eb62d6"
 metafile = true
