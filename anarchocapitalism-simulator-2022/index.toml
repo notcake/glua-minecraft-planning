@@ -6365,11 +6365,6 @@ hash = "83018bfaec9493e66af18393f6d7452ac08563ae37d510cfcef17e1fde6d2553"
 metafile = true
 
 [[files]]
-file = "mods/discord4fabric.pw.toml"
-hash = "98bd1fda5a5b377ed0ae68cda63a0d8648ea5ed1e897fbeca7c845e6da03288d"
-metafile = true
-
-[[files]]
 file = "mods/displaycase.pw.toml"
 hash = "d4b5f35ed24272f18fb9d56fa46693975e474943c8ebac4eaa75573ead5b266c"
 metafile = true
@@ -6491,7 +6486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8cf5324d7ab4e2080d3abb786acdc1a2f4fa0a139d296ae056db321362edff77"
+hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
 metafile = true
 
 [[files]]
@@ -7207,6 +7202,11 @@ metafile = true
 [[files]]
 file = "mods/scannable.pw.toml"
 hash = "88a1681e6ca48c65374e2a8592eff1b844fbb8486c5be00e9f94bf191b675fea"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "47a77f3c3c9fa8c92721e4420b30a2746f99e784ac64bce026d454613737118c"
 metafile = true
 
 [[files]]
