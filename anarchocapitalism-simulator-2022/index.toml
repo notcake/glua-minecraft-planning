@@ -5825,11 +5825,6 @@ hash = "c9a194bf948b7eb0b84113e4f861cd97c7a1c2f777d00c3d0e5723485b25bfab"
 metafile = true
 
 [[files]]
-file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "83d3792100809be7dbc13f6094f36d7edeefa99c60700bbdd64c13ec9b84c515"
-metafile = true
-
-[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
 metafile = true
@@ -6417,6 +6412,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "71952509ce4496bf508aba29a68aba01ceacd31e8c9e8b9d9ded1e1da70a93ff"
+metafile = true
+
+[[files]]
+file = "mods/easierchests.pw.toml"
+hash = "f3e9dee7cde591e256465b71fd36e02d1ef07536dd2e2ca7a6d9b08d4323e2d3"
 metafile = true
 
 [[files]]
