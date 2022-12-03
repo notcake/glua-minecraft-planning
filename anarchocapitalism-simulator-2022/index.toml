@@ -6486,7 +6486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
+hash = "8cf5324d7ab4e2080d3abb786acdc1a2f4fa0a139d296ae056db321362edff77"
 metafile = true
 
 [[files]]
@@ -7070,6 +7070,11 @@ hash = "3abd6bfd91f9099a1c744f4c2dd6d77354f64b36c47ca62462ec95c912d94cab"
 metafile = true
 
 [[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
+metafile = true
+
+[[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "94c6018c1a2737bedae3fb90c006c58ea727284d3b6c5635bdce37ff0c079318"
 metafile = true
@@ -7320,6 +7325,11 @@ hash = "5ad50122a5242f75545f3178f9834d7fca3bd9990bca27174a3515ce740fb2f3"
 metafile = true
 
 [[files]]
+file = "mods/tamago.pw.toml"
+hash = "06e327170c309ccaec51b7bfd041e1201841cfb3f6c29fe8a76effe5f1f0622e"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
@@ -7486,12 +7496,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "19a489c8e871a0af2905e65fd43baf320cbc6b3357a46934787a222654660fa5"
+hash = "a4a19f5ac1c1c2da653ae48a99485b8db8258d522368fe432b78bc5fe40b2b7e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9cbd917f5256eef9355bfe5c4bf6f59422c2d565a95f50c25961962f468ec8a2"
+hash = "5cc976c7e6a2df82d07a64419ab46122b633bae27d001314701e84287ba61f5d"
 metafile = true
 
 [[files]]

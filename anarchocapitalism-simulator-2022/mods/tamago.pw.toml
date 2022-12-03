@@ -1,0 +1,13 @@
+name = "Tamago"
+filename = "tamago-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5UjtxD5a/versions/sVGakBQO/tamago-1.0.jar"
+hash-format = "sha1"
+hash = "2df759a660f82c13123306fd48dd98729a93f4dd"
+
+[update]
+[update.modrinth]
+mod-id = "5UjtxD5a"
+version = "sVGakBQO"
