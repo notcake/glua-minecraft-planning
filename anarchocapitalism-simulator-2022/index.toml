@@ -6546,7 +6546,7 @@ metafile = true
 
 [[files]]
 file = "mods/froggypics.pw.toml"
-hash = "a355f979fc5b693f0b10a90660dfe47c3925367f93c0c3bf01a5f41ce809e85e"
+hash = "13b9741d09a4d3be8375437f0d509ddb1040e93ead886945797f9347016479c1"
 metafile = true
 
 [[files]]
@@ -6652,6 +6652,11 @@ metafile = true
 [[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "0eee3f30dacd4f5f69edf2b4dba03663ba4c198870a2e9b92333fb7b2502c7bf"
+metafile = true
+
+[[files]]
+file = "mods/honkytones.pw.toml"
+hash = "c15380a55a91aedab7bb7fca5a789aa807ed124beea169bbdfd027cf8ee0874c"
 metafile = true
 
 [[files]]

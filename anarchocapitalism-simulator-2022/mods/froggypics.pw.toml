@@ -1,13 +1,13 @@
 name = "FroggyPics"
-filename = "froggypics-1.0.1.jar"
+filename = "froggypics-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "49f576b6f539685b8896c4114ed04e608b24923d"
+hash = "a8848bb45fd68324afba195d2d355a9a58ef4d2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4064727
+file-id = 4141356
 project-id = 694484
