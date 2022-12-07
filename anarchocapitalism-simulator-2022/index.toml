@@ -6410,11 +6410,6 @@ hash = "71952509ce4496bf508aba29a68aba01ceacd31e8c9e8b9d9ded1e1da70a93ff"
 metafile = true
 
 [[files]]
-file = "mods/easierchests.pw.toml"
-hash = "f3e9dee7cde591e256465b71fd36e02d1ef07536dd2e2ca7a6d9b08d4323e2d3"
-metafile = true
-
-[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "22272f6e9abbb548e3c3c28f3c74b663ae061250b3b5c1b4e9ef41f3576dda10"
 metafile = true
@@ -6547,6 +6542,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
+metafile = true
+
+[[files]]
+file = "mods/froggypics.pw.toml"
+hash = "a355f979fc5b693f0b10a90660dfe47c3925367f93c0c3bf01a5f41ce809e85e"
 metafile = true
 
 [[files]]
