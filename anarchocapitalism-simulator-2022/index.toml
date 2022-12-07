@@ -3345,8 +3345,9 @@ file = "eula.txt"
 hash = "55de3c30e4b100c8a7bb75bdcbf5dadc7023d323ad021e0712527039f3669200"
 
 [[files]]
-file = "fabric-installer.toml"
+file = "fabric-installer.pw.toml"
 hash = "dd627f028560a6bec77ad36b5baba336ca492c7d9337ee10d47ebeccad1328fb"
+metafile = true
 
 [[files]]
 file = "kubejs/README.txt"
@@ -6992,6 +6993,11 @@ metafile = true
 [[files]]
 file = "mods/no-null-processors.pw.toml"
 hash = "2153838f38dd58059732e9398bcd11b39f1783dbddf274349baddcb5f49bca1e"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "43e9c672455f2c84f69f35545d5e01f0bb7a61e6b24c9e32dbb402d9f0f14a6c"
 metafile = true
 
 [[files]]
