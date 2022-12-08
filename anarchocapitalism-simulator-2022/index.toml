@@ -6216,13 +6216,13 @@ hash = "d9568fd2a5fb54ce8b06ce1c2cfbfa3685f4001a8795a75f69f89e12612a9883"
 metafile = true
 
 [[files]]
-file = "mods/compact_storage.pw.toml"
-hash = "703ea08f3fdbda0da657e81b8d427e228dd18344af608b36179225147f1098a8"
+file = "mods/companion-fabric.pw.toml"
+hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
 metafile = true
 
 [[files]]
-file = "mods/companion-fabric.pw.toml"
-hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
+file = "mods/compressed-items.pw.toml"
+hash = "58a15ca391c613155df5b66e28649365aa35d10b0d2833c96142bda92cd1dcfa"
 metafile = true
 
 [[files]]
@@ -6491,8 +6491,18 @@ hash = "1036a282c07d3be858f48f7611c283c9bc9ec7509f13f033574c8116865d50be"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "06a9e9d6bc4c512962af46073dcc1b39a21428211159b48c6cac8a99eae6f859"
+metafile = true
+
+[[files]]
 file = "mods/extra-alchemy.pw.toml"
 hash = "2e7413f16d4fcea5305221ad5d6f1e2f86a6d86252684c059cb30fbf05b88a4f"
+metafile = true
+
+[[files]]
+file = "mods/extra-generators.pw.toml"
+hash = "5bdd7670921517a5befc2ac35a1e295461bd4ea5a26e9b22ea53b0eced1ae795"
 metafile = true
 
 [[files]]
@@ -7046,6 +7056,11 @@ hash = "997e86885cc636951fa8fa352997faf7f72464aeec93f9c8880be543e95c5292"
 metafile = true
 
 [[files]]
+file = "mods/packages.pw.toml"
+hash = "dfbff26c683a1e8367aaefc80bb939f883965b6e7f5654cc9b9c950059b60e39"
+metafile = true
+
+[[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "ca6ed5bc78b1c35b3260468f0d4d144d45a0f1b017e2cbdad62127d79fb931c0"
 metafile = true
@@ -7478,11 +7493,6 @@ metafile = true
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "cd5811817d5c404ca0ed76ee54071d12887950f01d3d8300007f225d84688608"
-metafile = true
-
-[[files]]
-file = "mods/upc.pw.toml"
-hash = "ff82170c70d27bddc5861f4ea7bd08b710bd4d104df26d95c126a1ef429b4edb"
 metafile = true
 
 [[files]]

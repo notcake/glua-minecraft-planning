@@ -1,0 +1,13 @@
+name = "StorageBox"
+filename = "storagebox-1.1.0-1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/styMEyoE/versions/jOzXjHsU/storagebox-1.1.0-1.18.jar"
+hash-format = "sha1"
+hash = "5bf9fa41b7dcb40650e524d09ff11d4a9d0f2a49"
+
+[update]
+[update.modrinth]
+mod-id = "styMEyoE"
+version = "jOzXjHsU"
