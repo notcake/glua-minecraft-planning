@@ -5882,7 +5882,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-botanics-addon.pw.toml"
-hash = "75c134e40d73075a4751d1fc4ae25f25b43f4960d1902a0ab8c7fac74efea480"
+hash = "7279b788b32975ee30ce0c5da8e3db4052f2ee6cf8883b3c08aa47ac0bff249a"
 metafile = true
 
 [[files]]
@@ -5912,7 +5912,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ccf1f3f81ce91c460704f8371e1a737343701eb5bd64d1937b18e26d5816b522"
+hash = "5c067cf953857a327140fca91560dcb225c2f49d8dc5c0e71525812570e8e902"
 metafile = true
 
 [[files]]
@@ -5967,7 +5967,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
+hash = "3f57dfd24e15076ae0fba5cfb57c67f61e3c2a6e0b701a5c74736f26be704863"
 metafile = true
 
 [[files]]
@@ -6027,7 +6027,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "3367117ea8f08e2522a5d97c54d7ea4555189a1d49f57970ef7020533d348c00"
+hash = "dea2adc39a4e14f4faa6f778c1f3c5c2271d97f0ca6a07f0506efb14bd24e99c"
 metafile = true
 
 [[files]]
@@ -6052,12 +6052,12 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "df9a669014f613e78f9f0cdef69a20943a000d3923450f20a5b3b4d8e5abee9a"
+hash = "a459167aacbf77c463e325d859534225b3701e9063e8ddc5f04a3a84f2b3797b"
 metafile = true
 
 [[files]]
 file = "mods/botany-trees.pw.toml"
-hash = "1907c8beedb580cd4f8986c01eafeba2b079d768d05097f08e1ab0b352468e0e"
+hash = "d0bbdc5536b412b08f44722e774034293690fc707356e0b7bbabe80e081a00e6"
 metafile = true
 
 [[files]]
@@ -6207,7 +6207,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "c889a9718156003d2c5e63df9b73954d9fa8134ad71ba3c41dcb2378a642f79d"
+hash = "9fcaa1b18b580609c015d67317379c73d854ab2b34899163f77f938782ccc893"
 metafile = true
 
 [[files]]
@@ -6437,7 +6437,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "e2508e1649e103c88dde5fd7d4babc78e0a84c92d115066bd79f8bb80213a952"
+hash = "e6ed006f8d4ec8bc87ef6796c3fa8f19fa69db0a3c761b436acffbebd8a9ae09"
 metafile = true
 
 [[files]]
@@ -6467,7 +6467,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "608b3b5f123f12035f6f818c94ade692d42c441664e4b4791a0b961f6971c28a"
+hash = "2e0bada56cf03b8cf8914dcc28f60b198966c4eb99cd39cd01fd90ded7135093"
 metafile = true
 
 [[files]]
@@ -6842,7 +6842,7 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "19e572ff85c17c2fc8ea709cade85ea8897c95ff9c31bd9fb66f100bc13f523e"
+hash = "2c84f02034cdb80a49b6a3084b3968282cd49836697b81dfddc7006dee50af47"
 metafile = true
 
 [[files]]
@@ -6872,7 +6872,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "32e23b7b551730eb419c821d1f23cd363bd59f5a096ee7b360077501010f5b2f"
+hash = "76f4a00c62eb8611fa11189250c8c5565df594520f31dccf893bf5b938efc96b"
 metafile = true
 
 [[files]]
@@ -6907,7 +6907,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "ca1411ddd60cfb821ed8bb7c9dda1d686d84147f01bafa9f35cc35b41115c1e3"
+hash = "5e0068380101e761adecc63c624f0801fb8c9b33f8f9b113116231e4b81e86fb"
 metafile = true
 
 [[files]]
@@ -6957,7 +6957,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f5b47f97bb295961c6b2db6bca541348a28fe5ec042a5b343832c59682ddaec2"
+hash = "b4e9564a3b53e008e176341a6e63fcfb33c89eab824fe11c2714d9bc66aa1e32"
 metafile = true
 
 [[files]]
@@ -7157,7 +7157,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
-hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
+hash = "c70dc98427f92b4df794a15e387839d4be12d010ffc263988430721a601a8730"
 metafile = true
 
 [[files]]
@@ -7197,7 +7197,7 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "8f83c751ca505f64563b26dd0bb42d379bc9c7e457eadf26614ba7349ad55d75"
+hash = "4404667737d1cefeb44d69f0b7bf1022afcef0e74791cdc87bcd45341b7ceed4"
 metafile = true
 
 [[files]]
@@ -7212,7 +7212,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "6d9ebf431c692d8927f1db5d0f023bead9e06a2b9fecbea19336aea0efa32806"
+hash = "4d25f423b50b04470ae71ad2d14dc3eb16cdb9c802105cb0fdad9cadfb8c8496"
 metafile = true
 
 [[files]]
@@ -7277,7 +7277,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fd6577f8e0b56ba3ddf6a061bf9e3a98329f3966fb77b391d0b2cc57b4a435a2"
+hash = "f9b23cf02fb3ff4d70b5b57ea03ab9a01078693b95da804582294150eff194b1"
 metafile = true
 
 [[files]]
@@ -7382,7 +7382,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
-hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
+hash = "177ee30550628f668ed56a11659add4daa666df48fb92bfdf7f375e6cdfe7683"
 metafile = true
 
 [[files]]
@@ -7552,12 +7552,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a4a19f5ac1c1c2da653ae48a99485b8db8258d522368fe432b78bc5fe40b2b7e"
+hash = "0699923cdb9f9f031a1bb31e940d8280f27d1d06aa22a0beb3eeedf9decda5d3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5cc976c7e6a2df82d07a64419ab46122b633bae27d001314701e84287ba61f5d"
+hash = "64e3cb8a35028be4fd4e13caf9a2c35aedd5c627a6cf0923fc2c2c7b87224bcb"
 metafile = true
 
 [[files]]
@@ -7577,7 +7577,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.pw.toml"
-hash = "973b23acf84af8e57c04f395a497f307cb929316d33b19e245228328c457d14f"
+hash = "4e7d9efec7dd89605f0836fddccb6f0b7a578891475cdee2d69a4de4e3bedf05"
 metafile = true
 
 [[files]]
