@@ -6681,6 +6681,11 @@ hash = "0eee3f30dacd4f5f69edf2b4dba03663ba4c198870a2e9b92333fb7b2502c7bf"
 metafile = true
 
 [[files]]
+file = "mods/honkytones.pw.toml"
+hash = "ee777a6a2139ea3e83392639e226fe313218c3c24ec710bd38eb390a282a4ae2"
+metafile = true
+
+[[files]]
 file = "mods/hwyla-addon-horse-info.pw.toml"
 hash = "d0fa6d90658e788afef7be9e18df3a6504c6041c4987484d796adc1d99cb4707"
 metafile = true

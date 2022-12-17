@@ -1,0 +1,14 @@
+name = "HonkyTones"
+filename = "honkytones-mc1.18.2-v3.0.0-HF4.jar"
+side = "both"
+
+[download]
+hash-format = "md5"
+hash = "c9a50da72fbee83f7d76fe2668502ba4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4166581
+project-id = 552562
+
