@@ -5,5 +5,5 @@ side = "server"
 [download]
 url = "https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.2/fabric-installer-0.11.2.jar"
 hash-format = "sha256"
-hash = "d342e0fddb7d16153d3db3e9ee28a42b7faf73cb6c8aa5a0fd4ff61ac9caee53"
+hash = "c6ad5bef1bb12b5a7227be3ee540c2c906afdf4ac8114b78e0aca0b146005c27"
 

@@ -542,7 +542,7 @@ hash = "55de3c30e4b100c8a7bb75bdcbf5dadc7023d323ad021e0712527039f3669200"
 
 [[files]]
 file = "fabric-installer.pw.toml"
-hash = "819aae61c74504e8740006a11f526b38ed4d45034e004446b047e67bc1929272"
+hash = "86bf35549719afccf1d9841b0a3150c921c0d314b664495380a765849ddd1d4a"
 metafile = true
 
 [[files]]
