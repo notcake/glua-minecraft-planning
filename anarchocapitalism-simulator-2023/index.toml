@@ -533,6 +533,15 @@ file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
 hash = "cb9fcb6b7c72a876bc63e3e996cb8314463879f16349d2ee03ff93d020357fad"
 
 [[files]]
+file = "eula.txt"
+hash = "55de3c30e4b100c8a7bb75bdcbf5dadc7023d323ad021e0712527039f3669200"
+
+[[files]]
+file = "fabric-installer.pw.toml"
+hash = "819aae61c74504e8740006a11f526b38ed4d45034e004446b047e67bc1929272"
+metafile = true
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
@@ -5125,3 +5134,7 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "e51d06862a5c8191182f4fd7d9870313533afdcacdca3130cb37f8f5fc7bf635"
 metafile = true
+
+[[files]]
+file = "whitelist.json"
+hash = "ca6538fa8c1d172863739d4134d433dacd813f53a2b9baab13709c80dfbe4d38"
