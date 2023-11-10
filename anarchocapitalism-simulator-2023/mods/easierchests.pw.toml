@@ -1,0 +1,13 @@
+name = "EasierChests"
+filename = "easierchests-1.19.1-fabric0.58.5-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1aloFY8o/versions/1.19.1-fabric0.58.5-1.7.0/easierchests-1.19.1-fabric0.58.5-1.7.0.jar"
+hash-format = "sha1"
+hash = "fe0ee47b942b218b189dd80635a3864c1cbac58f"
+
+[update]
+[update.modrinth]
+mod-id = "1aloFY8o"
+version = "oyeT0PYv"
