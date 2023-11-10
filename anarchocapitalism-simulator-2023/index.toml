@@ -45,6 +45,10 @@ file = "config/bettercombat/server.json5"
 hash = "4933e1c010fd02e746a0114fba4005afa269ff8ffef36aa07800b3b87066e85b"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "4185613de3c5fdc7b6e30a1a9c9f961ef3557b93d9d0775f387002c397f18bde"
+
+[[files]]
 file = "config/blur.json"
 hash = "c142e94698edc6e6f976da54e35ef518ba7ac99b276052f5ebd319280bd07b00"
 
@@ -354,7 +358,7 @@ hash = "6ec368f6f3af7754228cc717c66ff5bc50cee4e53b7d107eebf5be04358b3caa"
 
 [[files]]
 file = "config/inventoryhud.json"
-hash = "e47711cf281d17244a31b3817f7ef3031af48fbe501a5016f1f4f4fb53e1f5b4"
+hash = "584d7dd62dd247372c00c0ba3338dfa9b65357a92a5a3e372a6afb455ddc66a7"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/ae2.json"
@@ -4138,11 +4142,6 @@ metafile = true
 [[files]]
 file = "mods/dustrial-decor-fabric.pw.toml"
 hash = "5f5aadf1e89ba5691eb37395459d96cde026c197e1c22de8289d1b798aadd90a"
-metafile = true
-
-[[files]]
-file = "mods/easierchests.pw.toml"
-hash = "b42a7eb4d88cc0f3260fa75e0acd403b004d8aef131630446fdf87a71c3b91cb"
 metafile = true
 
 [[files]]
