@@ -3736,7 +3736,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "6275e0275d58fa55ee243a181b740575e47a7191279ecfa6303130af41a994cc"
+hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
 metafile = true
 
 [[files]]
@@ -3776,7 +3776,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b25059cd43f681fbd3447f29d355eda0ede4800b3b11cb680ca2889a92be180f"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
@@ -4090,6 +4090,11 @@ hash = "b4404c089bb8689cdf07feb509c3cd4068347e7ca5a01510991565032c6ad52f"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "27d8c96d3721eb06ad12bc963d99d50eb1f48fe4c6f19b6c39e8f92876a12e1b"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "b798d828b8977fc0d67f079484c9ecd7bcc8a421fc933862532bcceecac75656"
 metafile = true
@@ -4147,6 +4152,16 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "8244b5fe3ab24ad3423da4e0eec8daa10d3629876524751bf57cdb8892ba39f1"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "ee9f977d275b936477b3498b26d377948f9b229b6e33b803e327d2a22383efc8"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "9efb6871d71a44163f4bf51c1f8186f164c865dd6cb5a5f07a31d7e45112dcf8"
 metafile = true
 
 [[files]]
@@ -4232,6 +4247,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-simple-animated-guns.pw.toml"
 hash = "5bb7b21a6cb6b24ace31ffa9f13107e40bdc4f6d28932b6f892699a0943c953a"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "92c92ffb7a6ee49e51bf3a34537c9829351e7f702d83c3340843d2095f8f6ad5"
 metafile = true
 
 [[files]]
@@ -4650,6 +4670,11 @@ hash = "c933ff1e368c87fcb97c5c7a584d71cf15e69b0f29513394b13d63ba1315bcc7"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "87857d482a7d442c21384f5762bd7e51ad6ee1bda30f01b206dfa2694ca9c8ff"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "d61a3eaafc4c4ef505d8dee5855e9583d95415f0de22c36b29a36ff44c3278bb"
 metafile = true
@@ -4657,6 +4682,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "6483d0ad3f1fd5dfb94f86c857a6b9a2b53da16f9d43ca807e5d28fa8aa24fe0"
 metafile = true
 
 [[files]]
@@ -4822,6 +4852,11 @@ metafile = true
 [[files]]
 file = "mods/scannable.pw.toml"
 hash = "34fae8dda00f81d456cc9a32056472fcbcd6a896a530072ab1451e503741886f"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "340e7ac0ae0d1daf881b5981d0308d1abc5558dda5d4313fe94833740fbdb2b9"
 metafile = true
 
 [[files]]
