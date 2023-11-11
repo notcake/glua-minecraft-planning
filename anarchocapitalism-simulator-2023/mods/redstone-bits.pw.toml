@@ -1,0 +1,13 @@
+name = "Redstone Bits"
+filename = "redstone-bits-1.8.2+fabric-mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4RK1aHVB/versions/1.8.2-1.19/redstone-bits-1.8.2%2Bfabric-mc1.19.jar"
+hash-format = "sha1"
+hash = "9eb582de3b6d741810773dbcfbe20e7b229a81f5"
+
+[update]
+[update.modrinth]
+mod-id = "4RK1aHVB"
+version = "I2IudQVl"
