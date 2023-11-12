@@ -11,7 +11,7 @@
   "pot_mini": true,
   "bar_duration": 300,
   "pot_hor": true,
-  "arm_toggle": true,
+  "arm_toggle": false,
   "arm_above": 100,
   "arm_view": "percentage",
   "move_all": true,
