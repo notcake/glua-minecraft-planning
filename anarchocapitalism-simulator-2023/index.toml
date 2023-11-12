@@ -4230,6 +4230,11 @@ hash = "9efb6871d71a44163f4bf51c1f8186f164c865dd6cb5a5f07a31d7e45112dcf8"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "4c272f8e64788341090015050f2a4062d0944958f3479dcbbfa7639676f1053e"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "4ae65ae9f012e7b1d27fa2934185dfbd35f6009d850c5d3662d3c10cc9a64be4"
 metafile = true
@@ -4377,11 +4382,6 @@ metafile = true
 [[files]]
 file = "mods/froggypics.pw.toml"
 hash = "1726f86d3062854c5eb345957f7f279f5631a498053882adf6aa9528c37b049d"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-2.pw.toml"
-hash = "0bb6d413d9302641930b5cf9f9e4ac6303dd2769c2824682f2fb7187f8f92b8a"
 metafile = true
 
 [[files]]
@@ -4700,6 +4700,11 @@ hash = "dd5d292e40d52631f69178a39643d6d55c2184773f03acb2870b8865ffe7ad8a"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "57b37ebbaf8cd5720931941ee65f65838498795145c95df00a941e0b9921e4c6"
 metafile = true
@@ -4802,6 +4807,11 @@ metafile = true
 [[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "8ad45685a5ed590198027155a94b838e418467793ce4a688e7bb0ea77d7497dd"
+metafile = true
+
+[[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "3221d13f95f9703cb775069dbb848695d3bc44160e86f741713c3866f1dcb728"
 metafile = true
 
 [[files]]
@@ -5055,6 +5065,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "51a859be42055c2db7ea8c3be65189dafdedce167944ab3afe5fd37228d1ecfc"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
@@ -5237,6 +5252,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.pw.toml"
 hash = "b4918263643e419327c16c4493991cf62ba37b273b93cd5ed77f5b2ae02e07d2"
+metafile = true
+
+[[files]]
+file = "mods/visual-overhaul.pw.toml"
+hash = "f91dfdea8cb29d3effba0c9791b9f8d75395209125d0548e6b75138d5fdfd98d"
 metafile = true
 
 [[files]]
