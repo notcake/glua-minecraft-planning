@@ -4308,6 +4308,11 @@ hash = "45434ae422258d63fbf9083e9489cdbc54087ec1950c6e20deda307e004908bb"
 metafile = true
 
 [[files]]
+file = "mods/froggypics.pw.toml"
+hash = "1726f86d3062854c5eb345957f7f279f5631a498053882adf6aa9528c37b049d"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "0bb6d413d9302641930b5cf9f9e4ac6303dd2769c2824682f2fb7187f8f92b8a"
 metafile = true
@@ -4389,7 +4394,7 @@ metafile = true
 
 [[files]]
 file = "mods/honkytones.pw.toml"
-hash = "272cceacae9577c2d35dde4dc5a0bc92461459ef0dbf13637726f8f514408789"
+hash = "120f4366a045434fb76ff4f16036a3b329670f76c871d8aef88e19e5c8b50d7d"
 metafile = true
 
 [[files]]
