@@ -4770,11 +4770,6 @@ hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix-fabric.pw.toml"
-hash = "eeeb92bc0d5e6dc70fd6f754ac1e64db928e26f2e41d0a0ade807fef7a79eb1e"
-metafile = true
-
-[[files]]
 file = "mods/nethers-delight-fabric.pw.toml"
 hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
 metafile = true
