@@ -1,0 +1,13 @@
+name = "End's Delight"
+filename = "ends_delight-fabric-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a03b88234b958bf86598bb2891064e4a2086bf2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4681502
+project-id = 662675

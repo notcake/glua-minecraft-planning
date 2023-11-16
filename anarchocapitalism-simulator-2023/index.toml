@@ -4145,6 +4145,21 @@ hash = "b4404c089bb8689cdf07feb509c3cd4068347e7ca5a01510991565032c6ad52f"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "25e082c4f835eb1615ac5ad94099167a1639312c415343afe0a7383a2f834b85"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
+metafile = true
+
+[[files]]
+file = "mods/croptopias-chocolaterie-fabric.pw.toml"
+hash = "6cabca7aac31f4520421d2b8bc5347c098b9101f75cfe6e991b9b58c6f3c5bb4"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "b798d828b8977fc0d67f079484c9ecd7bcc8a421fc933862532bcceecac75656"
 metafile = true
@@ -4242,6 +4257,21 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "836ba327a9506a03d26c3c01af62f2e9adf174f0dcc91bbd270bb95e27e2ec58"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "04964c851f50019fb59e57642b99105f305b575a42961699d6ccd036e74704c8"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "d6a3d516d42fbcb4553f4536888b3e8926bc5bd708df58ea91e7fc0bb889ab2d"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "b48873470814897dd15409254d0c85102ed47df144621aaf4282b90b240b1c52"
 metafile = true
 
 [[files]]
@@ -4395,6 +4425,11 @@ hash = "191e7106a3915d5946487cbf827befceed9896ea937a99a12a73a702c31a707d"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "f93d5566fdc64e37155f2edab0c5e7147e133b2de1af20c4954c25c2c46203fe"
+metafile = true
+
+[[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "ee5b19c462ded3077553009c5e6319f65af2c0f9c9d78f86744bc526c2b5ef83"
 metafile = true
@@ -4507,6 +4542,11 @@ metafile = true
 [[files]]
 file = "mods/ironchests.pw.toml"
 hash = "d26f65f02a0f1ce03f4e8e5b08d726d8afdccad03b7a36d050952fc8d29ddaa0"
+metafile = true
+
+[[files]]
+file = "mods/it-takes-a-pillage-fabric.pw.toml"
+hash = "08469edc3728f89e436047f4016adb687ab14e2ad6b4f2752ad58b0a9b21ba62"
 metafile = true
 
 [[files]]
@@ -4995,6 +5035,11 @@ hash = "7a802f4cd8e54d9f8a61bf24a687b05109ee9c556f84d1875f1832cecc3f582c"
 metafile = true
 
 [[files]]
+file = "mods/simplehats.pw.toml"
+hash = "7b5dea35456bde440cb054c87e52107f6676f2dfe7139413c57e3bd57ceab8e4"
+metafile = true
+
+[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "e042a31030aeef75b55c1d23d8728fad0beeffe983c3dfe82200e31c5ca37fa8"
 metafile = true
@@ -5007,6 +5052,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "f40371310784f8c77708b33a91946b979343137460b654b8443689ae3b5c28f8"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages-fabric.pw.toml"
+hash = "c1c40e96898079d81f628d9b7b1746618a3daad842d51be9ef42882b88a65a44"
 metafile = true
 
 [[files]]
@@ -5032,6 +5082,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "fac06fe229fd9d639d57ad2b36bba2587a144d07e4e28b013151f1d246bf24d3"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "c63584e9df3073f255026c0447e3f7fec09d3ade1ebeed21eaaa88829356deba"
 metafile = true
 
 [[files]]
@@ -5162,6 +5217,11 @@ metafile = true
 [[files]]
 file = "mods/time-in-a-bottle.pw.toml"
 hash = "7e5a44b6def8ef43ca5b91ddefa831078f01c5f7ebe84547cda7fd34f7e724ee"
+metafile = true
+
+[[files]]
+file = "mods/tiny-skeletons-forge.pw.toml"
+hash = "ef74cc4a17781fca055d03185df23cd9f4152585977b8d69c5fb5f85bca6d391"
 metafile = true
 
 [[files]]
