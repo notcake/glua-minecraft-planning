@@ -1,0 +1,13 @@
+name = "HonkyTones"
+filename = "honkytones-mc1.19.2-v1.4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/grJRjIz4/versions/vUxVXv17/honkytones-mc1.19.2-v1.4.0.2.jar"
+hash-format = "sha1"
+hash = "ce2c557593209272dfa72118a323d00bd7a6e1b7"
+
+[update]
+[update.modrinth]
+mod-id = "grJRjIz4"
+version = "vUxVXv17"

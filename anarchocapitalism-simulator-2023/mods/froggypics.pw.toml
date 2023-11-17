@@ -1,0 +1,13 @@
+name = "FroggyPics"
+filename = "froggypics-1.0.2_1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5df6cfd356e31fcd673f903b1ab0814b21f72ebe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4858465
+project-id = 694484
