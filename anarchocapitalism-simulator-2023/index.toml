@@ -389,10 +389,6 @@ file = "config/modern_industrialization.toml"
 hash = "069db7da7c09c6b51368ecf158adbfd06971e568ffb18c772e083a3cba9b2bc4"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "798aa5c902941acc9b67c172392bff34b26a206b86f95560a42ef5818cf3a37e"
-
-[[files]]
 file = "config/notenoughanimations.json"
 hash = "9718cebdf0f474168f77fd066926220110340e962803cf8b22b6afbe77592a04"
 
