@@ -4300,6 +4300,11 @@ hash = "45434ae422258d63fbf9083e9489cdbc54087ec1950c6e20deda307e004908bb"
 metafile = true
 
 [[files]]
+file = "mods/froggypics.pw.toml"
+hash = "1726f86d3062854c5eb345957f7f279f5631a498053882adf6aa9528c37b049d"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
 hash = "746f9f48f225c92c342c95fc0c02dc37ab80eb79fd98d2648c4c70e9ad79e749"
 metafile = true
@@ -4362,6 +4367,11 @@ metafile = true
 [[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "9284302420fdf37f6a0b083ce85b28a35bd8260d2a57635c7f2d15e3499dc36c"
+metafile = true
+
+[[files]]
+file = "mods/honkytones.pw.toml"
+hash = "dc947a3d5440384b499a61e49c9359a06fbb41ad00439af4e1299bbfa1a35357"
 metafile = true
 
 [[files]]
@@ -4892,6 +4902,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "f40371310784f8c77708b33a91946b979343137460b654b8443689ae3b5c28f8"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "ec5a81105e01f4ac85d40fb8e87bc1af32d8a49044e6a7a464ed911513a37847"
 metafile = true
 
 [[files]]
