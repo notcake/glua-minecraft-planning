@@ -4090,11 +4090,6 @@ hash = "b4404c089bb8689cdf07feb509c3cd4068347e7ca5a01510991565032c6ad52f"
 metafile = true
 
 [[files]]
-file = "mods/crossstitch.pw.toml"
-hash = "27d8c96d3721eb06ad12bc963d99d50eb1f48fe4c6f19b6c39e8f92876a12e1b"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "b798d828b8977fc0d67f079484c9ecd7bcc8a421fc933862532bcceecac75656"
 metafile = true
@@ -4247,11 +4242,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-simple-animated-guns.pw.toml"
 hash = "5bb7b21a6cb6b24ace31ffa9f13107e40bdc4f6d28932b6f892699a0943c953a"
-metafile = true
-
-[[files]]
-file = "mods/fabricproxy-lite.pw.toml"
-hash = "92c92ffb7a6ee49e51bf3a34537c9829351e7f702d83c3340843d2095f8f6ad5"
 metafile = true
 
 [[files]]
@@ -4682,11 +4672,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "6483d0ad3f1fd5dfb94f86c857a6b9a2b53da16f9d43ca807e5d28fa8aa24fe0"
 metafile = true
 
 [[files]]
